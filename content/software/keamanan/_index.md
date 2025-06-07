@@ -10,6 +10,14 @@ description: "Perangkat lunak untuk melindungi komputer dari virus, malware, dan
 
 ### 📦 Daftar Software:
 
-- **Smadav Pro** — Antivirus lokal ringan buatan Indonesia.
-- **Kaspersky Internet Security** — Perlindungan real-time dari ancaman online.
-- **Malwarebytes** — Scanner dan penghapus malware yang handal.
+{{< cards >}}
+  {{< card link="/software/keamanan/kaspersky/" title="Kaskpersky" image="/images/software/kaspersky.png" subtitle="Perlindungan real-time dari ancaman online." >}}
+  {{< card link="/software/keamanan/malwarebytes/" title="Malwarebytes" image="/images/software/malwarebytes5.png" subtitle="Perlindungan real-time dari ancaman online." >}}
+  {{< card link="/software/keamanan/smadav/" title="Smadav" image="/images/software/smadav.png" subtitle="Antivirus lokal ringan buatan Indonesia." >}}
+{{< /cards >}}
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../keamanan/solusi-masalah" title="Solusi Software Keamanan" icon="document-duplicate" >}}
+{{< /cards >}}

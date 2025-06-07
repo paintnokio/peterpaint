@@ -10,9 +10,11 @@ description: "Aplikasi perkantoran untuk mendukung produktivitas kerja seperti p
 
 ### 📦 Daftar Software:
 
-- **Microsoft Office** — Paket lengkap aplikasi perkantoran populer.
-- **WPS Office** — Alternatif ringan dan gratis untuk Office.
-- **PDF Tools** — Alat bantu untuk membaca, mengedit, dan menggabungkan PDF.
+{{< cards >}}
+  {{< card link="/software/perkantoran/microsoft-office/" title="MS Office" image="/images/software/office-365.png" subtitle="Paket lengkap aplikasi perkantoran populer." >}}
+  {{< card link="/software/perkantoran/pdf-tools/" title="PDF-Tools" image="/images/software/pdf-tools.png" subtitle="Alat bantu untuk membaca, mengedit, dan menggabungkan PDF." >}}
+  {{< card link="/software/perkantoran/wps-office/" title="WPS Office" image="/images/software/wps-office.png" subtitle="Alternatif ringan dan gratis untuk Office." >}}
+{{< /cards >}}
 
 ## Solusi Masalah
 

@@ -10,6 +10,14 @@ description: "Software untuk statistik, visualisasi data, dan analisis kuantitat
 
 ### 📦 Daftar Software:
 
-- **SPSS** — Software statistik untuk penelitian dan data ilmiah.
-- **Tableau** — Visualisasi data interaktif berbasis dashboard.
-- **Excel Advanced Tools** — Tambahan analisis untuk Microsoft Excel.
+{{< cards >}}
+  {{< card link="/software/analisis-data/spss/" title="SPSS" image="/images/software/spss.png" subtitle="Software statistik untuk penelitian dan data ilmiah." >}}
+  {{< card link="/software/analisis-data/tableau/" title="tableau" image="/images/software/tableau.png" subtitle="Visualisasi data interaktif berbasis dashboard." >}}
+  {{< card link="/software/analisis-data/excel-tools/" title="Exel" image="/images/software/exel-tool.png" subtitle="Analisis untuk Microsoft Excel." >}}
+{{< /cards >}}
+
+## Solusi Masalah:
+
+{{< cards >}}
+  {{< card link="../analisis-data/solusi-masalah" title="Solusi Masalah Analisis Data" icon="document-duplicate" >}}
+{{< /cards >}}

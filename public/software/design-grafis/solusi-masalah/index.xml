@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Solusi Masalah Desain Grafis</title>
-    <link>https://example.org/software/design-grafis/solusi-masalah/</link>
+    <link>http://localhost:1313/software/design-grafis/solusi-masalah/</link>
     <description>Recent content in Solusi Masalah Desain Grafis on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     
-	  <atom:link href="https://example.org/software/design-grafis/solusi-masalah/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/design-grafis/solusi-masalah/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Mengatasi Brush Error pada Photoshop</title>
-      <link>https://example.org/software/design-grafis/solusi-masalah/brush-error/</link>
+      <link>http://localhost:1313/software/design-grafis/solusi-masalah/brush-error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/design-grafis/solusi-masalah/brush-error/</guid>
+      <guid>http://localhost:1313/software/design-grafis/solusi-masalah/brush-error/</guid>
       <description>
         
         

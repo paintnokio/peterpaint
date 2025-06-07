@@ -10,6 +10,14 @@ description: "Perangkat lunak akuntansi, manajemen keuangan, dan sistem kasir un
 
 ### 📦 Daftar Software:
 
-- **MYOB Accounting** — Software akuntansi lengkap untuk bisnis skala kecil-menengah.
-- **Accurate** — Aplikasi pembukuan bisnis lokal Indonesia.
-- **Kasir Pintar Pro** — Sistem POS (Point of Sale) modern untuk toko retail.
+{{< cards >}}
+  {{< card link="/software/keuangan-bisnis/myob/" title="MYOB Accounting" image="/images/software/myob.png" subtitle="Perlindungan real-time dari ancaman online." >}}
+  {{< card link="/software/keuangan-bisnis/accurate/" title="Accurate" image="/images/software/accurate5.png" subtitle="Perlindungan real-time dari ancaman online." >}}
+  {{< card link="/software/keuangan-bisnis/ksir-pintar/" title="Kasir Pintar Pro" image="/images/software/kasirpintar.png" subtitle="Antivirus lokal ringan buatan Indonesia." >}}
+{{< /cards >}}
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../keuangan-bisnis/solusi-masalah" title="Solusi Software keuangan Dan Bisnis" icon="document-duplicate" >}}
+{{< /cards >}}

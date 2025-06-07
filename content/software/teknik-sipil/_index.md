@@ -1,7 +1,6 @@
 ---
 linkTitle: "Teknik Sipil & Arsitektur"
 title: "Software Teknik Sipil & Arsitektur"
-description: "Perangkat lunak untuk perancangan bangunan, simulasi struktur, dan permodelan arsitektur."
 ---
 
 🏗️ Kategori **Teknik Sipil & Arsitektur** mencakup software penting untuk perancangan konstruksi, simulasi struktur, dan pemodelan 3D arsitektur.
@@ -10,9 +9,11 @@ description: "Perangkat lunak untuk perancangan bangunan, simulasi struktur, dan
 
 ### 📦 Daftar Software:
 
-- **AutoCAD** — Perangkat lunak desain 2D dan 3D profesional.
-- **ETABS** — Analisis struktur gedung bertingkat.
-- **SketchUp** — Model 3D untuk desain arsitektur dan interior.
+{{< cards >}}
+  {{< card link="/software/teknik-sipil/autocad/" title="AutoCAD" image="/images/software/autocad.png" subtitle="Perangkat lunak desain 2D dan 3D profesional." >}}
+  {{< card link="/software/teknik-sipil/etabs/" title="ETABS" image="/images/software/etabs.png" subtitle="Analisis struktur gedung bertingkat." >}}
+  {{< card link="/software/teknik-sipil/sketchup/" title="SketchUp" image="/images/software/sketchup.png" subtitle=" Model 3D untuk desain arsitektur dan interior." >}}
+{{< /cards >}}
 
 ## Solusi Masalah
 

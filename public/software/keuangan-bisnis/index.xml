@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Software Keuangan &amp; Bisnis</title>
-    <link>https://example.org/software/keuangan-bisnis/</link>
+    <link>http://localhost:1313/software/keuangan-bisnis/</link>
     <description>Recent content in Software Keuangan &amp; Bisnis on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://example.org/software/keuangan-bisnis/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/keuangan-bisnis/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Accurate 5 Desktop</title>
-      <link>https://example.org/software/keuangan-bisnis/accurate/</link>
+      <link>http://localhost:1313/software/keuangan-bisnis/accurate/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/keuangan-bisnis/accurate/</guid>
+      <guid>http://localhost:1313/software/keuangan-bisnis/accurate/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Kasir Pintar Pro 2025</title>
-      <link>https://example.org/software/keuangan-bisnis/kasir-pintar/</link>
+      <link>http://localhost:1313/software/keuangan-bisnis/kasir-pintar/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/keuangan-bisnis/kasir-pintar/</guid>
+      <guid>http://localhost:1313/software/keuangan-bisnis/kasir-pintar/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>MYOB Accounting Plus v19</title>
-      <link>https://example.org/software/keuangan-bisnis/myob/</link>
+      <link>http://localhost:1313/software/keuangan-bisnis/myob/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/keuangan-bisnis/myob/</guid>
+      <guid>http://localhost:1313/software/keuangan-bisnis/myob/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@
     
     <item>
       <title>Mengatasi Printing Error di MYOB</title>
-      <link>https://example.org/software/keuangan-bisnis/solusi-masalah/</link>
+      <link>http://localhost:1313/software/keuangan-bisnis/solusi-masalah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/keuangan-bisnis/solusi-masalah/</guid>
+      <guid>http://localhost:1313/software/keuangan-bisnis/solusi-masalah/</guid>
       <description>
         
         

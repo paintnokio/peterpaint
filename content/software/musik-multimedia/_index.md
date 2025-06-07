@@ -1,7 +1,6 @@
 ---
 linkTitle: "Musik & Multimedia"
 title: "Software Musik & Multimedia"
-description: "Perangkat lunak untuk produksi musik, pengolahan audio, serta pemutaran multimedia."
 ---
 
 🎶 Kategori **Musik & Multimedia** berisi software untuk mengedit, membuat, dan memutar konten audio dan video dengan kualitas tinggi.
@@ -10,9 +9,11 @@ description: "Perangkat lunak untuk produksi musik, pengolahan audio, serta pemu
 
 ### 📦 Daftar Software:
 
-- **FL Studio** — Digital Audio Workstation (DAW) profesional.
-- **Audacity** — Editor audio gratis dan open-source.
-- **VLC Media Player** — Pemutar multimedia ringan dan fleksibel.
+{{< cards >}}
+  {{< card link="/software/musik-multimedia/audacity/" title="Audacity" image="/images/software/audacity.png" subtitle="Editor audio gratis dan open-source." >}}
+  {{< card link="/software/musik-multimedia/fl-studio/" title="FL-Studio" image="/images/software/flstudio21.png" subtitle="Digital Audio Workstation (DAW) profesional." >}}
+  {{< card link="/software/musik-multimedia/vlc/" title="VLC" image="/images/software/vlc.png" subtitle="Pemutar multimedia ringan dan fleksibel." >}}
+{{< /cards >}}
 
 ## Solusi Masalah
 

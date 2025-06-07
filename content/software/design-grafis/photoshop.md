@@ -1,8 +1,10 @@
 ---
 title: "Adobe Photoshop 2024"
+linkTitle: photoshop
 featuredImage: "/images/software/photoshop.png"
-description: "Software editing gambar profesional"
 lastmod: 2024-12-01
+prev: /sofware/design-grafis/photoshop
+next: /sofware/design-grafis/
 ---
 
 **Adobe Photoshop 2024** adalah software profesional untuk editing foto dan desain grafis raster.

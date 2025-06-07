@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Software Musik &amp; Multimedia</title>
-    <link>https://example.org/software/musik-multimedia/</link>
+    <link>http://localhost:1313/software/musik-multimedia/</link>
     <description>Recent content in Software Musik &amp; Multimedia on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://example.org/software/musik-multimedia/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/musik-multimedia/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Audacity 3.4.2</title>
-      <link>https://example.org/software/musik-multimedia/audacity/</link>
+      <link>http://localhost:1313/software/musik-multimedia/audacity/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/musik-multimedia/audacity/</guid>
+      <guid>http://localhost:1313/software/musik-multimedia/audacity/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>FL Studio 21 Producer Edition</title>
-      <link>https://example.org/software/musik-multimedia/fl-studio/</link>
+      <link>http://localhost:1313/software/musik-multimedia/fl-studio/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/musik-multimedia/fl-studio/</guid>
+      <guid>http://localhost:1313/software/musik-multimedia/fl-studio/</guid>
       <description>
         
         
@@ -70,10 +70,10 @@
     
     <item>
       <title>VLC Media Player 3.0.20</title>
-      <link>https://example.org/software/musik-multimedia/vlc/</link>
+      <link>http://localhost:1313/software/musik-multimedia/vlc/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/musik-multimedia/vlc/</guid>
+      <guid>http://localhost:1313/software/musik-multimedia/vlc/</guid>
       <description>
         
         
@@ -96,18 +96,18 @@
     
     <item>
       <title>Musik &amp; Multimedia</title>
-      <link>https://example.org/software/musik-multimedia/solusi-masalah/</link>
+      <link>http://localhost:1313/software/musik-multimedia/solusi-masalah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/musik-multimedia/solusi-masalah/</guid>
+      <guid>http://localhost:1313/software/musik-multimedia/solusi-masalah/</guid>
       <description>
         
         
         &lt;h2&gt;Software Musik &amp;amp; Multimedia&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;software-musik--multimedia&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#software-musik--multimedia&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.org/software/musik-multimedia/fl-studio/&#34; &gt;FL Studio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.org/software/musik-multimedia/audacity/&#34; &gt;Audacity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.org/software/musik-multimedia/vlc/&#34; &gt;VLC Media Player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/software/musik-multimedia/fl-studio/&#34; &gt;FL Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/software/musik-multimedia/audacity/&#34; &gt;Audacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/software/musik-multimedia/vlc/&#34; &gt;VLC Media Player&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

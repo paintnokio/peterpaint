@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Mengatasi Instalasi SPSS Gagal</title>
-    <link>https://example.org/software/analisis-data/solusi-masalah/</link>
+    <link>http://localhost:1313/software/analisis-data/solusi-masalah/</link>
     <description>Recent content in Mengatasi Instalasi SPSS Gagal on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     
-	  <atom:link href="https://example.org/software/analisis-data/solusi-masalah/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/analisis-data/solusi-masalah/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Mengatasi Instalasi SPSS Gagal</title>
-      <link>https://example.org/software/analisis-data/solusi-masalah/install-gagal-spss/</link>
+      <link>http://localhost:1313/software/analisis-data/solusi-masalah/install-gagal-spss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/analisis-data/solusi-masalah/install-gagal-spss/</guid>
+      <guid>http://localhost:1313/software/analisis-data/solusi-masalah/install-gagal-spss/</guid>
       <description>
         
         
@@ -32,7 +32,7 @@
 &lt;li&gt;Pastikan ruang disk cukup (minimal 5GB)&lt;/li&gt;
 &lt;li&gt;Download ulang installer dari situs resmi IBM&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://example.org/software/analisis-data/solusi-masalah/&#34; &gt;← Kembali ke Daftar Solusi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/software/analisis-data/solusi-masalah/&#34; &gt;← Kembali ke Daftar Solusi&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>

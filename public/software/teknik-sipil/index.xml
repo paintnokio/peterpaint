@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Software Teknik Sipil &amp; Arsitektur</title>
-    <link>https://example.org/software/teknik-sipil/</link>
+    <link>http://localhost:1313/software/teknik-sipil/</link>
     <description>Recent content in Software Teknik Sipil &amp; Arsitektur on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://example.org/software/teknik-sipil/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/teknik-sipil/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Solusi Masalah Teknik Sipil</title>
-      <link>https://example.org/software/teknik-sipil/solusi-masalah/</link>
+      <link>http://localhost:1313/software/teknik-sipil/solusi-masalah/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/teknik-sipil/solusi-masalah/</guid>
+      <guid>http://localhost:1313/software/teknik-sipil/solusi-masalah/</guid>
       <description>
         
         
@@ -38,14 +38,18 @@
     
     <item>
       <title>AutoCAD 2024</title>
-      <link>https://example.org/software/teknik-sipil/autocad/</link>
+      <link>http://localhost:1313/software/teknik-sipil/autocad/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/teknik-sipil/autocad/</guid>
+      <guid>http://localhost:1313/software/teknik-sipil/autocad/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;strong&gt;AutoCAD 2024&lt;/strong&gt; adalah software desain CAD yang umum digunakan dalam dunia teknik dan arsitektur.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;AutoCAD 2024&lt;/strong&gt; adalah software desain CAD yang umum digunakan dalam dunia teknik dan arsitektur.
+Autodesk AutoCAD 2018.1.1 Full Version merupakan software yang digunakan untuk menggambar objek atau desain 2D ataupun 3D dengan tools yang lengkap.
+Saya rasa untuk anda semua pecinta software CAD sudah paham fungsi dari software Autodesk AutoCAD. Yups, rilis terbaru versi Autodesk AutoCAD 2018 yang walapun tahun 2018 masih cukup jauh. hehe. memang kebanyakan software sebelum tahun berikut nya sudah merilis versi tahun berikut nya. hal ini juga sudah di lakukan Autodesk pada versi Autodesk AutoCAD sebelumnya, yakni Autodesk AutoCAD versi 2017.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/software/autocad/autocad1.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/software/autocad/autocad2.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Desain 2D dan 3D&lt;/li&gt;
@@ -54,58 +58,118 @@
 &lt;/ul&gt;
 &lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Windows 10/11 64-bit&lt;/li&gt;
+&lt;li&gt;Windows 7/8.1/10/11 64-bit&lt;/li&gt;
 &lt;li&gt;RAM 8 GB&lt;/li&gt;
 &lt;li&gt;GPU DirectX 12&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/autocad2024.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;📦 Langkah instalasi dan aktivasi:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-langkah-instalasi-dan-aktivasi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-langkah-instalasi-dan-aktivasi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Step 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-indigo-200 hx:bg-indigo-100 hx:text-indigo-900 hx:dark:border-indigo-200/30 hx:dark:bg-indigo-900/30 hx:dark:text-indigo-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Important&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;Putuskan jaringan internet sebelum install&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Step 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Setelah terdownload file Autocanya, silahkan extract&lt;/p&gt;
+&lt;h3&gt;Step 3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Selanjutnya diinstall&lt;/p&gt;
+&lt;h3&gt;Step 4&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;Untuk pengguna versi 64bit, pilih yang win_64_trial_001_002.sfx, nanti yang kedua akan mengikuti secara otomatis.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Step 5&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Setelah install selesai.&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-indigo-200 hx:bg-indigo-100 hx:text-indigo-900 hx:dark:border-indigo-200/30 hx:dark:bg-indigo-900/30 hx:dark:text-indigo-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Important&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;kemudian Install untuk Update ke versi 2018.1.1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;lalu silahkan jalankan, dan pilih Enter Serial number&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;serial number : 666-69696969 atau 667-98989898&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Product Key: 001J1
+&lt;img src=&#34;http://localhost:1313/images/software/autocad/autocadreg.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Selanjutnya, Next, pilih “I have an activation code from Autodesk”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;buka folder keygen, Pilih x86 untuk 32 bit dan x64 untuk 64 bit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Klik kanan Keygen tersebut, pilih &lt;strong&gt;run as administartor ( Wajib !!! )&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;lalu, klik tombol patch, akan terlihat “patch successfully”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;kemudian, Copy ” Request Code” ( Block lalu CTRL+C )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dan paste ke Keygen, kemudian generate
+&lt;img src=&#34;http://localhost:1313/images/software/autocad/keygen.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Silahkan Copy Serial yang muncul di Kolom Activation, dan paste di kolom ” I have Activation Code “&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;berhenti di nomor 15, huruf ( Z ) kolom 16 kosong&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;lalu Next&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;enjoy full version&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-red-200 hx:bg-red-100 hx:text-red-900 hx:dark:border-red-200/30 hx:dark:bg-red-900/30 hx:dark:text-red-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Caution&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;Berikan firewall untuk menghindari blacklist aktivasi&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/autocad2024.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download versi 64bit&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Solusi Permasalahan Umum&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;solusi-permasalahan-umum&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#solusi-permasalahan-umum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Atau jelajahi solusi populer:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.org/software/teknik-sipil/solusi-masalah/error-123/&#34; &gt;Error 123 pada AutoCAD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.org/software/teknik-sipil/solusi-masalah/install-gagal/&#34; &gt;Instalasi Gagal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/software/teknik-sipil/solusi-masalah/error-123/&#34; &gt;Error 123 pada AutoCAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/software/teknik-sipil/solusi-masalah/install-gagal/&#34; &gt;Instalasi Gagal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
-      <title>ETABS Ultimate 21</title>
-      <link>https://example.org/software/teknik-sipil/etabs/</link>
+      <title>Chaos Enscape Full V4.7.0.57</title>
+      <link>http://localhost:1313/software/teknik-sipil/enscape/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/teknik-sipil/etabs/</guid>
+      <guid>http://localhost:1313/software/teknik-sipil/enscape/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;strong&gt;ETABS&lt;/strong&gt; digunakan untuk analisis struktur bangunan bertingkat dengan simulasi elemen struktur secara mendetail.&lt;/p&gt;
-&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Analisis dinamik &amp;amp; statik&lt;/li&gt;
-&lt;li&gt;Pemetaan beban &amp;amp; grid struktural&lt;/li&gt;
-&lt;li&gt;Export laporan struktur PDF/Excel&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Windows 10 64-bit&lt;/li&gt;
-&lt;li&gt;RAM 4 GB&lt;/li&gt;
-&lt;li&gt;500 MB free disk&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/etabs21.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SketchUp Pro 2023</title>
-      <link>https://example.org/software/teknik-sipil/sketchup/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/software/teknik-sipil/sketchup/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;SketchUp Pro&lt;/strong&gt; adalah aplikasi pemodelan 3D intuitif untuk arsitektur, desain interior, dan lanskap.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Chaos Enscape&lt;/strong&gt; merupakan software rendering real-time terbaru yang dirancang khusus untuk arsitek, desainer interior, dan profesional 3D. Dengan Enscape, Anda bisa mengubah model 3D menjadi visualisasi yang realistis secara instan. Software ini terintegrasi langsung dengan program desain seperti Revit, SketchUp, Rhino, dan ArchiCAD, sehingga mempermudah alur kerja desain Anda.&lt;/p&gt;
+&lt;p&gt;Anda dapat Melihat perubahan desain secara langsung dalam waktu nyata tanpa perlu menunggu proses rendering yang lama. kemudian Mendukung headset VR seperti Oculus dan HTC Vive, memungkinkan Anda menjelajahi desain dalam pengalaman yang imersif. Dengan simulasi pencahayaan yang akurat, Anda dapat menciptakan suasana yang sesuai dengan desain Anda, baik siang maupun malam.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/software/sketchup/enscape/enscape4.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Model 3D drag-and-drop&lt;/li&gt;
@@ -118,6 +182,240 @@
 &lt;li&gt;RAM 8 GB&lt;/li&gt;
 &lt;li&gt;GPU 1 GB VRAM&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Langkah Instal&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;langkah-instal&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#langkah-instal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Step 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Download kemudian extract&lt;/p&gt;
+&lt;h3&gt;Step 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Selanjutnya install sampai selesai&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Saat di akhir install, klik sign in, dan close saja&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Step 3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Lalu buka folder jamu, copy isinya paste ke:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;\Program&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt; Files\Enscape\RendererHost&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Replace yang asli&lt;/li&gt;
+&lt;li&gt;Done full&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;Enscape or asseet library sudah terbuka dan wjib online&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ETABS Ultimate 21</title>
+      <link>http://localhost:1313/software/teknik-sipil/etabs/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/teknik-sipil/etabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;ETABS&lt;/strong&gt; digunakan untuk analisis struktur bangunan bertingkat dengan simulasi elemen struktur secara mendetail.&lt;/p&gt;
+&lt;p&gt;CSI ETABS Ultimate 21.2.0 Build 3353 Full merupakan salah satu software yang dapat anda gunakan untuk melakukan pemodelan struktur, analisis, dan desain.&lt;/p&gt;
+&lt;p&gt;Kebanyakan orang bagi anda para perencana high rise building menjadikan software CSI ETABS ini sebagai pilihan pertama dan utama dalam melakukan analisis dinamik, karena memang analisis dinamik ini agak-agak butuh waktu dan keringat yang berlebihan jika dicoba dihitung secara manual. Analisis dinamik enggak sesederhana analisis statik yang cukup mengandalkan konsep kesetimbangan gaya saja.&lt;/p&gt;
+&lt;p&gt;anda yang mencari CSI ETABS Ultimate 21 Full, silahkan download filenya di bawah ini dan ikuti panduan cara installnya&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/software/etabs/etabs.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;http://localhost:1313/images/software/etabs/etabs1.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Analisis dinamik &amp;amp; statik&lt;/li&gt;
+&lt;li&gt;Pemetaan beban &amp;amp; grid struktural&lt;/li&gt;
+&lt;li&gt;Export laporan struktur PDF/Excel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows 10 64-bit&lt;/li&gt;
+&lt;li&gt;RAM 4 GB&lt;/li&gt;
+&lt;li&gt;500 MB free disk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Langkah Instal dan aktivasi&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;langkah-instal-dan-aktivasi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#langkah-instal-dan-aktivasi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Step 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Pertama Silahkan Install dulu software nya, pilih standalone, jika di minta key, di close saja&lt;/p&gt;
+&lt;h3&gt;Step 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;jika sudah seelsai, jalankan cmd, run as administrator ! wajib&lt;/p&gt;
+&lt;h3&gt;Step 3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;copy dan paste&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;cd&lt;/span&gt;  C:\Windows\Microsoft.NET\Framework64\v4.0.30319&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;kemudia paste ke&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;\Windows\Microsoft.NET\Framework64\v4.0.30319&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Step 5&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Aktivasi&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-indigo-200 hx:bg-indigo-100 hx:text-indigo-900 hx:dark:border-indigo-200/30 hx:dark:bg-indigo-900/30 hx:dark:text-indigo-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Important&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;setelah selesai, silahkan exit, dan buka folder jamu, klik kanan “Etabs_v21_kg”, pilih run as admin ( passwordnya ada di readme )&lt;/li&gt;
+&lt;li&gt;akan muncul file “lservrc”,&lt;/li&gt;
+&lt;li&gt;sekarang lihat folder jamunya, Copy file “lservrc” dan ” SentinelRMSCore.dll”&lt;/li&gt;
+&lt;li&gt;lalu paste ke directiory&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;\Program&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt; Files\Computers and Structures\ETABS 21\&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;**Dan Juga paste ke directory&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;\Program&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt; Files\Computers and Structures\ETABS 21\CSiLicensing&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;Sekarang jalankan ETABS 21 nya&lt;/li&gt;
+&lt;li&gt;Done full&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Jika sudah Copy paste file “lservrc”, namun di jalankan tetap Error CSI SAP2000 nya ( misal error #120, itu tandanya komputer ente ada masalah pada system operasi nya, bisa jadi karena menginstall software virtual atau yang berhubungan dengan adanya port )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/etabs21.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>SketchUp Pro 2023</title>
+      <link>http://localhost:1313/software/teknik-sipil/sketchup/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/teknik-sipil/sketchup/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;SketchUp Pro&lt;/strong&gt; adalah aplikasi pemodelan 3D intuitif untuk arsitektur, desain interior, dan lanskap.&lt;/p&gt;
+&lt;p&gt;SketchUp Pro 2023 Full versi 23.1.340 merupakan salah satu software yang sering digunakan untuk membuat desain 2D atau 3D seperti bangunan, benda, atau apapun itu. software ini populer karena tampilannya yang sederhana namun dengan tools yang memumpuni dan tentu lebih ringan di banding dengan software sejenis lainya.&lt;/p&gt;
+&lt;p&gt;Rilis di versi SketchUp Pro 2023 terbaru, tentu dengan perbaikan dan feature lebih baru di banding versi sebelumnya, anda yang penggemar atau pengguna SketchUp Pro, dan spesifikasi komputer memumpuni, silahkan update ke versi baru.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/software/sketchup/s21.png&#34; alt=&#34;landscape&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Model 3D drag-and-drop&lt;/li&gt;
+&lt;li&gt;Integrasi dengan V-Ray &amp;amp; LayOut&lt;/li&gt;
+&lt;li&gt;Galeri 3D Warehouse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows 10/11 64-bit&lt;/li&gt;
+&lt;li&gt;RAM 8 GB&lt;/li&gt;
+&lt;li&gt;GPU 1 GB VRAM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Langkah Instal Pre Aktif&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;langkah-instal-pre-aktif&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#langkah-instal-pre-aktif&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;steps hx:ml-4 hx:mb-12 hx:ltr:border-l hx:rtl:border-r hx:border-gray-200 hx:ltr:pl-6 hx:rtl:pr-6 hx:dark:border-neutral-800 [counter-reset:step]&#34;&gt;
+&lt;h3&gt;Step 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Download lalu Extract, Wajib !!&lt;/p&gt;
+&lt;h3&gt;Step 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;lalu langkah install nya&lt;/p&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;p&gt;Double Click ” Silent Install”, akan muncul command promt&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Tunggu sampai menutup sendiri&lt;/li&gt;
+&lt;li&gt;Enjoy, jalankan start menu atau shurtcut desktop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-indigo-200 hx:bg-indigo-100 hx:text-indigo-900 hx:dark:border-indigo-200/30 hx:dark:bg-indigo-900/30 hx:dark:text-indigo-200&#34;&gt;
+  &lt;p class=&#34;hx:flex hx:items-center hx:font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx:inline-block hx:align-middle hx:mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Important&lt;/p&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;untuk Fix display thumbnail, jalankan command promt, run as admin, paste script berikut: regsvr32.exe “C:\Program Files\SketchUp\SketchUp 2023\ThumbsUp.dll”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/sketchup2023.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
       </description>

@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Software Sistem Operasi</title>
-    <link>https://example.org/software/sistem-operasi/</link>
+    <link>http://localhost:1313/software/sistem-operasi/</link>
     <description>Recent content in Software Sistem Operasi on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://example.org/software/sistem-operasi/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/sistem-operasi/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Linux Mint 21.2 Cinnamon</title>
-      <link>https://example.org/software/sistem-operasi/linux-mint/</link>
+      <link>http://localhost:1313/software/sistem-operasi/linux-mint/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/sistem-operasi/linux-mint/</guid>
+      <guid>http://localhost:1313/software/sistem-operasi/linux-mint/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@
     
     <item>
       <title>Tiny10 x64 (Build 22621)</title>
-      <link>https://example.org/software/sistem-operasi/tiny10/</link>
+      <link>http://localhost:1313/software/sistem-operasi/tiny10/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/sistem-operasi/tiny10/</guid>
+      <guid>http://localhost:1313/software/sistem-operasi/tiny10/</guid>
       <description>
         
         
@@ -71,10 +71,10 @@
     
     <item>
       <title>Windows 10 LTSC 2021</title>
-      <link>https://example.org/software/sistem-operasi/windows-10-ltsc/</link>
+      <link>http://localhost:1313/software/sistem-operasi/windows-10-ltsc/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/sistem-operasi/windows-10-ltsc/</guid>
+      <guid>http://localhost:1313/software/sistem-operasi/windows-10-ltsc/</guid>
       <description>
         
         
@@ -98,10 +98,10 @@
     
     <item>
       <title>Mengatasi BSOD pada Windows</title>
-      <link>https://example.org/software/sistem-operasi/solusi-masalah/</link>
+      <link>http://localhost:1313/software/sistem-operasi/solusi-masalah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/sistem-operasi/solusi-masalah/</guid>
+      <guid>http://localhost:1313/software/sistem-operasi/solusi-masalah/</guid>
       <description>
         
         

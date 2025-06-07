@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Stack – Software Analisis Data</title>
-    <link>https://example.org/software/analisis-data/</link>
+    <link>http://localhost:1313/software/analisis-data/</link>
     <description>Recent content in Software Analisis Data on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://example.org/software/analisis-data/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/software/analisis-data/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Excel Advanced Tools Add-In</title>
-      <link>https://example.org/software/analisis-data/excel-tools/</link>
+      <link>http://localhost:1313/software/analisis-data/excel-tools/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/analisis-data/excel-tools/</guid>
+      <guid>http://localhost:1313/software/analisis-data/excel-tools/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>IBM SPSS Statistics 29</title>
-      <link>https://example.org/software/analisis-data/spss/</link>
+      <link>http://localhost:1313/software/analisis-data/spss/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/analisis-data/spss/</guid>
+      <guid>http://localhost:1313/software/analisis-data/spss/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>Tableau Desktop 2024</title>
-      <link>https://example.org/software/analisis-data/tableau/</link>
+      <link>http://localhost:1313/software/analisis-data/tableau/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/analisis-data/tableau/</guid>
+      <guid>http://localhost:1313/software/analisis-data/tableau/</guid>
       <description>
         
         
@@ -95,10 +95,10 @@
     
     <item>
       <title>Mengatasi Instalasi SPSS Gagal</title>
-      <link>https://example.org/software/analisis-data/solusi-masalah/</link>
+      <link>http://localhost:1313/software/analisis-data/solusi-masalah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/software/analisis-data/solusi-masalah/</guid>
+      <guid>http://localhost:1313/software/analisis-data/solusi-masalah/</guid>
       <description>
         
         

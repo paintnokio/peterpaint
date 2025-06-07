@@ -1,6 +1,8 @@
 ---
 linkTitle: "All Software"
 title: "Kategori Software"
+prev: /Sofware
+next: /sofware/design-grafis
 description: "Jelajahi berbagai kategori software yang tersedia untuk kebutuhan desain, kantor, teknik, keamanan, dan banyak lagi."
 ---
 
@@ -8,19 +10,19 @@ description: "Jelajahi berbagai kategori software yang tersedia untuk kebutuhan 
 
 <!--more-->
 
-## 📂 Kategori yang Tersedia
-
 Beberapa kategori utama yang tersedia antara lain:
 
-- 🎨 **Desain Grafis** — seperti Adobe Photoshop, CorelDRAW, dan Canva.
-- 🏢 **Perkantoran** — seperti Microsoft Office, WPS Office, dan PDF Tools.
-- 📊 **Analisis Data** — seperti SPSS, Tableau, dan Excel Advanced Tools.
-- 🏗️ **Teknik Sipil & Arsitektur** — seperti AutoCAD, ETABS, dan SketchUp.
-- 💻 **Sistem Operasi** — termasuk Windows, Linux, dan distribusi ringan.
-- 🔐 **Keamanan & Antivirus** — seperti Smadav, Kaspersky, dan Malwarebytes.
-- 🎶 **Musik & Multimedia** — seperti FL Studio, Audacity, dan VLC Media Player.
-- 🌐 **Jaringan & Internet** — seperti Wireshark, Putty, dan FileZilla.
-- 💰 **Keuangan & Bisnis** — seperti MYOB, Accurate, dan aplikasi kasir.
+{{< cards >}}
+  {{< card link="analisis-data" title="Analisis Data" subtitle="📊 seperti SPSS, Tableau, dan Excel Advanced Tools." >}}
+  {{< card link="design-grafis" title="Desain Grafis" subtitle="🎨 seperti Adobe Photoshop, CorelDRAW, dan Canva." >}}
+  {{< card link="jaringan-internet" title="Jaringan & Internet" subtitle="🌐 seperti Wireshark, Putty, dan FileZilla." >}}
+  {{< card link="keamanan" title="Keamanan & Antivirus" subtitle="🔐 seperti Smadav, Kaspersky, dan Malwarebytes." >}}
+  {{< card link="keuangan-bisnis" title="Keuangan & Bisnis" subtitle="💰 seperti MYOB, Accurate, dan aplikasi kasir." >}}
+  {{< card link="musik-multimedia" title="Musik & Multimedia" subtitle="🎶 seperti FL Studio, Audacity, dan VLC Media Player." >}}
+  {{< card link="perkantoran" title="Perkantoran" subtitle="🏢 seperti Microsoft Office, WPS Office, dan PDF Tools." >}}
+  {{< card link="sistem-operasi" title="Sistem Operasi" subtitle="💻 termasuk Windows, Linux, dan distribusi ringan." >}}
+  {{< card link="teknik-sipil" title="Teknik Sipil" subtitle="🏗️ seperti AutoCAD, ETABS, dan SketchUp." >}}
+{{< /cards >}}
 
 Setiap software memiliki halaman tersendiri berisi:
 - Informasi umum dan fitur

@@ -1,7 +1,10 @@
 ---
 title: "CorelDRAW Graphics Suite 2023"
+linkTitle: coreldraw
 date: 2025-06-01
 featuredImage: "/images/software/coreldraw.png"
+prev: /sofware/design-grafis/coreldraw
+next: /sofware/design-grafis/photoshop
 ---
 
 **CorelDRAW** adalah software desain vektor untuk keperluan profesional dan bisnis kreatif.
