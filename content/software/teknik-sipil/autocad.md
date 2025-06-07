@@ -17,3 +17,10 @@ featuredImage: "/images/software/autocad.png"
 - GPU DirectX 12
 
 ⬇️ **[Download](https://example.com/download/autocad2024.zip)**
+
+
+## Solusi Permasalahan Umum
+
+Atau jelajahi solusi populer:
+- [Error 123 pada AutoCAD](/software/teknik-sipil/solusi-masalah/error-123)
+- [Instalasi Gagal](/software/teknik-sipil/solusi-masalah/install-gagal)

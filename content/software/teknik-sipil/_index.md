@@ -13,3 +13,9 @@ description: "Perangkat lunak untuk perancangan bangunan, simulasi struktur, dan
 - **AutoCAD** — Perangkat lunak desain 2D dan 3D profesional.
 - **ETABS** — Analisis struktur gedung bertingkat.
 - **SketchUp** — Model 3D untuk desain arsitektur dan interior.
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../teknik-sipil/solusi-masalah" title="Solusi Masalah Teknik Sipil" icon="document-duplicate" >}}
+{{< /cards >}}

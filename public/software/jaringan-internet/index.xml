@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex71 – Software Jaringan &amp; Internet</title>
-    <link>http://localhost:1313/software/jaringan-internet/</link>
-    <description>Recent content in Software Jaringan &amp; Internet on Alex71</description>
+    <title>Code Stack – Software Jaringan &amp; Internet</title>
+    <link>https://example.org/software/jaringan-internet/</link>
+    <description>Recent content in Software Jaringan &amp; Internet on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/software/jaringan-internet/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/software/jaringan-internet/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>FileZilla 3.66</title>
-      <link>http://localhost:1313/software/jaringan-internet/filezilla/</link>
+      <link>https://example.org/software/jaringan-internet/filezilla/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/jaringan-internet/filezilla/</guid>
+      <guid>https://example.org/software/jaringan-internet/filezilla/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>PuTTY 0.80</title>
-      <link>http://localhost:1313/software/jaringan-internet/putty/</link>
+      <link>https://example.org/software/jaringan-internet/putty/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/jaringan-internet/putty/</guid>
+      <guid>https://example.org/software/jaringan-internet/putty/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>Wireshark 4.2</title>
-      <link>http://localhost:1313/software/jaringan-internet/wireshark/</link>
+      <link>https://example.org/software/jaringan-internet/wireshark/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/jaringan-internet/wireshark/</guid>
+      <guid>https://example.org/software/jaringan-internet/wireshark/</guid>
       <description>
         
         
@@ -89,6 +89,28 @@
 &lt;li&gt;RAM 2 GB&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/wireshark42.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mengatasi Connection Timeout di Wireshark</title>
+      <link>https://example.org/software/jaringan-internet/solusi-masalah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/software/jaringan-internet/solusi-masalah/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Gejala&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gejala&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gejala&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Wireshark tidak bisa menangkap paket jaringan&lt;/p&gt;
+&lt;h3&gt;Solusi&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;solusi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#solusi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Jalankan Wireshark sebagai administrator&lt;/li&gt;
+&lt;li&gt;Install WinPcap/Npcap terbaru&lt;/li&gt;
+&lt;li&gt;Pilih interface yang benar di Capture &amp;gt; Options&lt;/li&gt;
+&lt;li&gt;Nonaktifkan firewall sementara&lt;/li&gt;
+&lt;/ol&gt;
 
       </description>
     </item>

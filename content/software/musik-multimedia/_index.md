@@ -13,3 +13,9 @@ description: "Perangkat lunak untuk produksi musik, pengolahan audio, serta pemu
 - **FL Studio** — Digital Audio Workstation (DAW) profesional.
 - **Audacity** — Editor audio gratis dan open-source.
 - **VLC Media Player** — Pemutar multimedia ringan dan fleksibel.
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../musik-multimedia/solusi-masalah" title="Solusi Software Multimedia" icon="document-duplicate" >}}
+{{< /cards >}}

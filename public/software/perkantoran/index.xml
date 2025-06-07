@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex71 – Software Perkantoran</title>
-    <link>http://localhost:1313/software/perkantoran/</link>
-    <description>Recent content in Software Perkantoran on Alex71</description>
+    <title>Code Stack – Software Perkantoran</title>
+    <link>https://example.org/software/perkantoran/</link>
+    <description>Recent content in Software Perkantoran on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/software/perkantoran/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/software/perkantoran/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Microsoft Office 2021 Professional Plus</title>
-      <link>http://localhost:1313/software/perkantoran/microsoft-office/</link>
+      <link>https://example.org/software/perkantoran/microsoft-office/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/perkantoran/microsoft-office/</guid>
+      <guid>https://example.org/software/perkantoran/microsoft-office/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@
     
     <item>
       <title>PDF Tools Pro</title>
-      <link>http://localhost:1313/software/perkantoran/pdf-tools/</link>
+      <link>https://example.org/software/perkantoran/pdf-tools/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/perkantoran/pdf-tools/</guid>
+      <guid>https://example.org/software/perkantoran/pdf-tools/</guid>
       <description>
         
         
@@ -70,10 +70,10 @@
     
     <item>
       <title>WPS Office 2023</title>
-      <link>http://localhost:1313/software/perkantoran/wps-office/</link>
+      <link>https://example.org/software/perkantoran/wps-office/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/perkantoran/wps-office/</guid>
+      <guid>https://example.org/software/perkantoran/wps-office/</guid>
       <description>
         
         
@@ -90,6 +90,49 @@
 &lt;li&gt;RAM 2 GB&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/wps2023.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mengatasi Excel Crash saat Membuka File</title>
+      <link>https://example.org/software/perkantoran/solusi-masalah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/software/perkantoran/solusi-masalah/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Gejala&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gejala&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gejala&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Microsoft Excel menutup tiba-tiba saat membuka file tertentu.&lt;/p&gt;
+&lt;h3&gt;Penyebab&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;penyebab&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#penyebab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Add-in yang bermasalah&lt;/li&gt;
+&lt;li&gt;File Excel corrupt&lt;/li&gt;
+&lt;li&gt;Konflik dengan program lain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Solusi&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;solusi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#solusi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Buka Excel dalam Safe Mode:
+&lt;ul&gt;
+&lt;li&gt;Tekan &lt;code&gt;Win + R&lt;/code&gt;, ketik &lt;code&gt;excel /safe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Buka file di Safe Mode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Nonaktifkan Add-in:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;Options&lt;/code&gt; &amp;gt; &lt;code&gt;Add-ins&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Nonaktifkan semua add-in, lalu aktifkan satu per satu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Perbaiki file dengan Open and Repair:
+&lt;ul&gt;
+&lt;li&gt;Di Excel, pilih &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;Open&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Klik file, lalu tombol panah di tombol Open&lt;/li&gt;
+&lt;li&gt;Pilih &amp;ldquo;Open and Repair&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 
       </description>
     </item>

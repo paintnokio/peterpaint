@@ -1,8 +1,35 @@
 baseURL: 'https://example.org/'
-languageCode: 'en-us'
-title: 'Alex71'
+languageCode: 'id'
+title: 'Code Stack'
+
+params:
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+    navbar:
+      displayTitle: true
+      displayLogo: true
+      logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 40
+      height: 20
 
 menu:
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: "About"
+      pageRef: "/about"
+      weight: 2
+    - name: "Blog ↗"
+      pageRef: "/blog"
+      weight: 3
   main:
     - name: All Software
       pageRef: /software
@@ -22,7 +49,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/paintnokio/peterpaint"
       params:
         icon: github
 

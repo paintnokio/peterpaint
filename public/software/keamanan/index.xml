@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex71 – Software Keamanan &amp; Antivirus</title>
-    <link>http://localhost:1313/software/keamanan/</link>
-    <description>Recent content in Software Keamanan &amp; Antivirus on Alex71</description>
+    <title>Code Stack – Software Keamanan &amp; Antivirus</title>
+    <link>https://example.org/software/keamanan/</link>
+    <description>Recent content in Software Keamanan &amp; Antivirus on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/software/keamanan/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://example.org/software/keamanan/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Kaspersky Internet Security 2024</title>
-      <link>http://localhost:1313/software/keamanan/kaspersky/</link>
+      <link>https://example.org/software/keamanan/kaspersky/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/keamanan/kaspersky/</guid>
+      <guid>https://example.org/software/keamanan/kaspersky/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Malwarebytes Premium 5</title>
-      <link>http://localhost:1313/software/keamanan/malwarebytes/</link>
+      <link>https://example.org/software/keamanan/malwarebytes/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/keamanan/malwarebytes/</guid>
+      <guid>https://example.org/software/keamanan/malwarebytes/</guid>
       <description>
         
         
@@ -69,10 +69,10 @@
     
     <item>
       <title>Smadav Pro 2024</title>
-      <link>http://localhost:1313/software/keamanan/smadav/</link>
+      <link>https://example.org/software/keamanan/smadav/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/software/keamanan/smadav/</guid>
+      <guid>https://example.org/software/keamanan/smadav/</guid>
       <description>
         
         
@@ -89,6 +89,28 @@
 &lt;li&gt;RAM 1 GB&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/smadav2024.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mengatasi Update Smadav Gagal</title>
+      <link>https://example.org/software/keamanan/solusi-masalah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/software/keamanan/solusi-masalah/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Gejala&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;gejala&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gejala&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Smadav tidak bisa memperbarui database antivirus&lt;/p&gt;
+&lt;h3&gt;Solusi&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;solusi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#solusi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Matikan antivirus lain sementara&lt;/li&gt;
+&lt;li&gt;Buka Smadav &amp;gt; Pengaturan &amp;gt; Proxy&lt;/li&gt;
+&lt;li&gt;Pilih &amp;ldquo;Gunakan proxy Smadav&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Coba update kembali&lt;/li&gt;
+&lt;/ol&gt;
 
       </description>
     </item>

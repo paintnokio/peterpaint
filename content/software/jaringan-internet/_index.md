@@ -13,3 +13,9 @@ description: "Aplikasi untuk analisis jaringan, koneksi server, dan transfer dat
 - **Wireshark** — Analisis jaringan secara real-time.
 - **PuTTY** — Koneksi SSH, Telnet, dan serial untuk server.
 - **FileZilla** — FTP/SFTP client untuk transfer file ke server.
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../musik-multimedia/solusi-masalah" title="Solusi Software Multimedia" icon="document-duplicate" >}}
+{{< /cards >}}

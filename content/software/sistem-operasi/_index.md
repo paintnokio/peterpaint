@@ -13,3 +13,9 @@ description: "Berbagai sistem operasi untuk keperluan umum, distribusi ringan, d
 - **Windows 10 LTSC** — Versi ringan dan stabil tanpa aplikasi bloatware.
 - **Linux Mint** — Distro Linux ramah pengguna dan ringan.
 - **Tiny10** — Versi ringan Windows 10 untuk perangkat spesifikasi rendah.
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../sistem-operasi/solusi-masalah" title="Solusi Masalah Sistem Operasi" icon="document-duplicate" >}}
+{{< /cards >}}

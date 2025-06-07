@@ -15,3 +15,9 @@ description: "Software untuk kebutuhan desain kreatif seperti editing gambar, il
 - **Canva** — Aplikasi desain online yang mudah digunakan untuk presentasi, poster, dan media sosial.
 
 Setiap software dilengkapi dengan informasi versi terbaru, panduan instalasi, dan link download.
+
+## Solusi Masalah
+
+{{< cards >}}
+  {{< card link="../design-grafis/solusi-masalah" title="Solusi Masalah Desain Grafis" icon="document-duplicate" >}}
+{{< /cards >}}

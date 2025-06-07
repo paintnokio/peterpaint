@@ -80,3 +80,6 @@ hugo mod tidy
 ```
 
 See [Update modules](https://gohugo.io/hugo-modules/use-modules/#update-modules) for more details.
+
+
+look [my site](https://684412a29c8c7cc2156ec19d--codestacks.netlify.app/) withe netlify :
