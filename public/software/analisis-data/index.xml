@@ -1,0 +1,97 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex71 – Software Analisis Data</title>
+    <link>http://localhost:1313/software/analisis-data/</link>
+    <description>Recent content in Software Analisis Data on Alex71</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/software/analisis-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Excel Advanced Tools Add-In</title>
+      <link>http://localhost:1313/software/analisis-data/excel-tools/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/analisis-data/excel-tools/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Excel Advanced Tools&lt;/strong&gt; adalah add-in Excel untuk analisis statistik, data mining, dan simulasi.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Analisis sensitivitas &amp;amp; what-if&lt;/li&gt;
+&lt;li&gt;Data cleaning otomatis&lt;/li&gt;
+&lt;li&gt;Kompatibel dengan Office 2016+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Excel 2016/2019/2021/365&lt;/li&gt;
+&lt;li&gt;Windows 10/11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/exceltools.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IBM SPSS Statistics 29</title>
+      <link>http://localhost:1313/software/analisis-data/spss/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/analisis-data/spss/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;IBM SPSS Statistics&lt;/strong&gt; adalah software statistik komprehensif untuk analisis data kuantitatif.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Regresi linear &amp;amp; logistik&lt;/li&gt;
+&lt;li&gt;Analisis data survei&lt;/li&gt;
+&lt;li&gt;Output statistik dalam tabel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows 10/11&lt;/li&gt;
+&lt;li&gt;RAM 4 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/spss29.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tableau Desktop 2024</title>
+      <link>http://localhost:1313/software/analisis-data/tableau/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/analisis-data/tableau/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Tableau&lt;/strong&gt; memungkinkan pengguna membuat visualisasi data interaktif dengan drag &amp;amp; drop.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Dashboard interaktif&lt;/li&gt;
+&lt;li&gt;Koneksi ke berbagai sumber data&lt;/li&gt;
+&lt;li&gt;Export ke PDF &amp;amp; web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows 10/11&lt;/li&gt;
+&lt;li&gt;RAM 8 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/tableau2024.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

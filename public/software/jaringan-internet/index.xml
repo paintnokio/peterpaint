@@ -1,0 +1,97 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex71 – Software Jaringan &amp; Internet</title>
+    <link>http://localhost:1313/software/jaringan-internet/</link>
+    <description>Recent content in Software Jaringan &amp; Internet on Alex71</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/software/jaringan-internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>FileZilla 3.66</title>
+      <link>http://localhost:1313/software/jaringan-internet/filezilla/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/jaringan-internet/filezilla/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;FileZilla&lt;/strong&gt; adalah FTP client yang cepat dan andal untuk mengelola file antar server dan komputer lokal.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;FTP, SFTP, FTPS support&lt;/li&gt;
+&lt;li&gt;Queue upload &amp;amp; resume&lt;/li&gt;
+&lt;li&gt;Drag &amp;amp; drop interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows / macOS / Linux&lt;/li&gt;
+&lt;li&gt;RAM 1 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/filezilla366.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>PuTTY 0.80</title>
+      <link>http://localhost:1313/software/jaringan-internet/putty/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/jaringan-internet/putty/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;PuTTY&lt;/strong&gt; adalah terminal emulator gratis untuk mengakses server melalui SSH, Telnet, dan lainnya.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;SSH key management&lt;/li&gt;
+&lt;li&gt;Session logging&lt;/li&gt;
+&lt;li&gt;Support SCP &amp;amp; serial&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows / Linux&lt;/li&gt;
+&lt;li&gt;RAM 512 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/putty080.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wireshark 4.2</title>
+      <link>http://localhost:1313/software/jaringan-internet/wireshark/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/jaringan-internet/wireshark/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Wireshark&lt;/strong&gt; adalah software open-source untuk menganalisis paket jaringan secara mendalam.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Real-time packet capture&lt;/li&gt;
+&lt;li&gt;Analisis protokol jaringan&lt;/li&gt;
+&lt;li&gt;Filter dan export data fleksibel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows / macOS / Linux&lt;/li&gt;
+&lt;li&gt;RAM 2 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/wireshark42.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

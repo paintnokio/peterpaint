@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" .) }}
+    {{ partial "toc.html" . }}
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="hx:w-full hx:min-w-0 hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12">
+        {{ partial "breadcrumb.html" . }}
+        <div class="content">
+          {{ if .Title }}<h1>{{ .Title }}</h1>{{ end }}
+          {{ .Content }}
+
+
+        {{ if .Params.download }}
+        <div class="mt-8">
+          <a href="{{ .Params.download }}"
+            class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded shadow transition">
+            ⬇️ Download Sekarang
+          </a>
+        </div>
+        {{ else }}
+        <p class="mt-8 text-red-500">⚠️ Link download belum tersedia.</p>
+        {{ end }}
+      </div>
+      
+        </div>
+        {{ partial "components/last-updated.html" . }}
+        {{ partial "components/pager.html" . }}
+        {{ partial "components/comments.html" . }}
+      </main>
+    </article>
+  </div>
+{{ end }}

@@ -1,0 +1,98 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex71 – Software Musik &amp; Multimedia</title>
+    <link>http://localhost:1313/software/musik-multimedia/</link>
+    <description>Recent content in Software Musik &amp; Multimedia on Alex71</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/software/musik-multimedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Audacity 3.4.2</title>
+      <link>http://localhost:1313/software/musik-multimedia/audacity/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/musik-multimedia/audacity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Audacity&lt;/strong&gt; adalah editor audio gratis untuk merekam, memotong, dan mengedit file suara.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Multi-track editing&lt;/li&gt;
+&lt;li&gt;Support efek LADSPA, VST, LV2&lt;/li&gt;
+&lt;li&gt;Noise reduction &amp;amp; audio repair&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows / macOS / Linux&lt;/li&gt;
+&lt;li&gt;RAM 2 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/audacity342.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>FL Studio 21 Producer Edition</title>
+      <link>http://localhost:1313/software/musik-multimedia/fl-studio/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/musik-multimedia/fl-studio/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;FL Studio&lt;/strong&gt; adalah software produksi musik populer untuk komposer, beatmaker, dan produser profesional.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Piano roll &amp;amp; mixer multi-track&lt;/li&gt;
+&lt;li&gt;Support plugin VST/AU&lt;/li&gt;
+&lt;li&gt;80+ plugin audio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows 10/11 64-bit&lt;/li&gt;
+&lt;li&gt;RAM 4 GB&lt;/li&gt;
+&lt;li&gt;4 GB disk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/flstudio21.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VLC Media Player 3.0.20</title>
+      <link>http://localhost:1313/software/musik-multimedia/vlc/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/musik-multimedia/vlc/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;VLC&lt;/strong&gt; adalah pemutar media lintas platform yang ringan dan mendukung hampir semua format video &amp;amp; audio.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Mendukung MKV, MP4, MP3, FLAC, dll.&lt;/li&gt;
+&lt;li&gt;Subtitle dan streaming online&lt;/li&gt;
+&lt;li&gt;Tidak perlu codec tambahan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Windows / Linux / macOS&lt;/li&gt;
+&lt;li&gt;RAM 512 MB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/vlc3020.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

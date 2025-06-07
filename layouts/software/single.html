@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class='hx:mx-auto hx:flex hextra-max-page-width'>
+  {{ partial "sidebar.html" (dict "context" .) }}
+  {{ partial "toc.html" . }}
+  <article
+    class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="hx:w-full hx:min-w-0 hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12">
+      {{ partial "breadcrumb.html" . }}
+      <div class="content">
+
+        {{ with .Params.featuredImage }}
+        <div class="relative mb-10 max-w-4xl mx-auto overflow-hidden rounded-xl shadow-md">
+          <img src="{{ . }}" alt="Featured Image" class="w-full h-64 object-cover" loading="lazy" />
+          {{ if $.Title }}
+          <h1
+            class="absolute bottom-4 left-4 right-4 bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm px-6 py-3 text-2xl font-bold rounded-lg shadow-md text-center">
+            {{ $.Title }}
+          </h1>
+          {{ end }}
+        </div>
+
+        {{ else }}
+        {{ if .Title }}<h1 class="text-2xl font-bold mb-4">{{ .Title }}</h1>{{ end }}
+        {{ end }}
+
+        {{ with .Params.download }}
+        <a href="{{ . }}"
+          class="inline-block my-2 rounded-full bg-blue-100 px-3 py-1 text-sm font-semibold text-blue-700 hover:bg-blue-200 dark:bg-blue-800 dark:text-blue-100 dark:hover:bg-blue-700">
+          ⬇️ Download
+        </a>
+        {{ end }}
+
+
+        {{ .Content }}
+      </div>
+      {{ partial "components/last-updated.html" . }}
+      {{ partial "components/pager.html" . }}
+      {{ partial "components/comments.html" . }}
+    </main>
+  </article>
+</div>
+{{ end }}

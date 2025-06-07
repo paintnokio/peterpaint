@@ -1,0 +1,100 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex71 – Software Sistem Operasi</title>
+    <link>http://localhost:1313/software/sistem-operasi/</link>
+    <description>Recent content in Software Sistem Operasi on Alex71</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/software/sistem-operasi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Linux Mint 21.2 Cinnamon</title>
+      <link>http://localhost:1313/software/sistem-operasi/linux-mint/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/sistem-operasi/linux-mint/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Linux Mint&lt;/strong&gt; adalah sistem operasi berbasis Ubuntu yang cocok untuk pengguna pemula Linux.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Antarmuka mirip Windows&lt;/li&gt;
+&lt;li&gt;Ringan &amp;amp; stabil&lt;/li&gt;
+&lt;li&gt;Cocok untuk laptop lama&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;RAM 2 GB&lt;/li&gt;
+&lt;li&gt;Disk 20 GB&lt;/li&gt;
+&lt;li&gt;CPU x64&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/linuxmint21.iso&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tiny10 x64 (Build 22621)</title>
+      <link>http://localhost:1313/software/sistem-operasi/tiny10/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/sistem-operasi/tiny10/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Tiny10&lt;/strong&gt; adalah versi modifikasi dari Windows 10 yang sangat ringan, cocok untuk perangkat dengan spesifikasi rendah.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Hanya 5 GB setelah instalasi&lt;/li&gt;
+&lt;li&gt;Cepat &amp;amp; ringan&lt;/li&gt;
+&lt;li&gt;Cocok untuk RAM 2 GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;CPU 1 GHz&lt;/li&gt;
+&lt;li&gt;RAM 1–2 GB&lt;/li&gt;
+&lt;li&gt;8 GB disk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/tiny10.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Windows 10 LTSC 2021</title>
+      <link>http://localhost:1313/software/sistem-operasi/windows-10-ltsc/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/sistem-operasi/windows-10-ltsc/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Windows 10 LTSC&lt;/strong&gt; adalah edisi Windows yang ringan, stabil, dan tanpa aplikasi bawaan yang tidak diperlukan.&lt;/p&gt;
+&lt;h3&gt;🧩 Fitur:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-fitur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-fitur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Tidak ada Cortana, Store, atau Xbox&lt;/li&gt;
+&lt;li&gt;Dukungan jangka panjang (hingga 2029)&lt;/li&gt;
+&lt;li&gt;Kinerja optimal untuk komputer lama&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;💻 Minimum:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-minimum&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-minimum&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;CPU 1 GHz&lt;/li&gt;
+&lt;li&gt;RAM 2 GB&lt;/li&gt;
+&lt;li&gt;16 GB disk space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⬇️ &lt;strong&gt;&lt;a href=&#34;https://example.com/download/win10ltsc.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

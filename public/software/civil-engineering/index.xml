@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex71 – Software Antivirus</title>
+    <link>http://localhost:1313/software/civil-engineering/</link>
+    <description>Recent content in Software Antivirus on Alex71</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/software/civil-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>ETABS 22 Full Version</title>
+      <link>http://localhost:1313/software/civil-engineering/etabs/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/civil-engineering/etabs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;ETABS 22 adalah software yang digunakan untuk analisis struktur bangunan tinggi&amp;hellip;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/software/civil-engineering/revit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/civil-engineering/revit/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
