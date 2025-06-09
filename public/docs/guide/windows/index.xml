@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code Stack – Petunjuk</title>
+    <title>Code Stack – 🎉 Selamat Datang di Pusat Aktivasi Microsoft!</title>
     <link>http://localhost:1313/docs/guide/windows/</link>
-    <description>Recent content in Petunjuk on Code Stack</description>
+    <description>Recent content in 🎉 Selamat Datang di Pusat Aktivasi Microsoft! on Code Stack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     
@@ -13,6 +13,262 @@
         
       
     
+    
+    <item>
+      <title>Petunjuk</title>
+      <link>http://localhost:1313/docs/guide/windows/activasi-microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/guide/windows/activasi-microsoft/</guid>
+      <description>
+        
+        
+        &lt;p&gt;👋 Halo! Selamat datang di dokumentasi Code Stack!&lt;/p&gt;
+&lt;h2&gt;Mengkatifkan Windows dan Ms-Office&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mengkatifkan-windows-dan-ms-office&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mengkatifkan-windows-dan-ms-office&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Aktivator Windows dan Office open-source dengan berbagai metode aktivasi termasuk HWID, Ohook, TSforge, KMS38, dan Online KMS, dilengkapi fitur troubleshooting lanjutan.&lt;/p&gt;
+&lt;h2&gt;Metode 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;metode-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#metode-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Menggunakan Powerhell (Windows 8 dan yang lebih baru)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;menggunakan-powerhell-windows-8-dan-yang-lebih-baru&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#menggunakan-powerhell-windows-8-dan-yang-lebih-baru&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;&lt;ol&gt;
+&lt;li&gt;Buka Powershell sebagai administrator caranya:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Tekan Logo Windows 🪟 + X Pada Keyboard&lt;/li&gt;
+&lt;li&gt;Pilih &amp;ldquo;Windows Powershell(Admin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Jalankan Perintah Berikut:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;irm https://get.activated.win &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; iex&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;atau alternatif (akan dihentikan di masa mendatang)&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  irm https://massgrave.dev/get &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; iex&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pilih Metode Aktivasi&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tekan [ 1 ] untuk aktivasi windows ( HWID )&lt;/li&gt;
+&lt;li&gt;Tekan [ 2 ] untuk aktivasi ms-office ( Ohook )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tunggu Proses selesai dengan menampilan &amp;ldquo;SUCCES&amp;rdquo; tek hijau&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Metode 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;metode-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#metode-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Manual (Windows Vista dan yang lebih baru)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;manual-windows-vista-dan-yang-lebih-baru&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#manual-windows-vista-dan-yang-lebih-baru&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;Klik detail&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Unduh File Aktivasi&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pilih salah satu link di bawah ini:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download Akitivator 01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download Aktivator 02&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Extrak file ZIP yang di unduh&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pada folder hasil extraksi, cari folder bernama &lt;code&gt;All-In-One-Version&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jalankan file &lt;code&gt;MAS_AIO.cmd&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;klik kanan pilih 👉&lt;code&gt;Run as administrator&lt;/code&gt;👈 &lt;strong&gt;WAJIB&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ikuti petunjuk di layar lcd anda&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2&gt;Jika Tidak Berhasil ❓&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;jika-tidak-berhasil-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#jika-tidak-berhasil-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Jika `tidak berhasil menjalan akitvasi metode 1, gunakan metode 2 diatas&lt;/li&gt;
+&lt;li&gt;Jika &lt;code&gt; Microsoft aktivasi script&lt;/code&gt; terbuka dan menapikan error, ikuti langkah troubleshooting yang di tandai warna biru&lt;/li&gt;
+&lt;li&gt;Jika maslah tetap ad, hubungi kami &lt;a href=&#34;https://devcomp.fun/troubleshoot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;disini&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;Catatan&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;Perintah IRM di PowerShell mengunduh script dari URL tertentu, dan IEX menjalankannya&lt;/li&gt;
+&lt;li&gt;Selalu periksa URL sebelum menjalankan perintah dan pastikan sumber terpercaya saat mengunduh file manual&lt;/li&gt;
+&lt;li&gt;Waspadai malware yang menyamar sebagai MAS dengan mengubah URL di perintah IRM&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2&gt;Rilis Terbaru&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;rilis-terbaru&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rilis-terbaru&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Versi Terakhir - v3.4 (3-June-2025):&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/massgravel/Microsoft-Activation-Scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; |
+&lt;a href=&#34;https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Azura DevOps&lt;/a&gt; |
+&lt;a href=&#34;https://git.activated.win/massgrave/Microsoft-Activation-Scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-hosted Git&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Fitur Utama&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;fitur-utama&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fitur-utama&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HWID&lt;/strong&gt; (Lisensi Digital): Aktivasi permanen windows&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ohook&lt;/strong&gt;: Aktivasi permanen microsoft office&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tsforge&lt;/strong&gt;: Aktivasi windows/ESU/Office&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KMS38&lt;/strong&gt;: Aktivasi hingga tahun 2038&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online KMS&lt;/strong&gt;: Aktivasi windows/office selema 180 hari (dapat diperpanjang otomatis)&lt;/li&gt;
+&lt;li&gt;Troubleshooting aktivasi lanjutan&lt;/li&gt;
+&lt;li&gt;Foler $OEM$ untuk pra-aktivasi&lt;/li&gt;
+&lt;li&gt;Ubah Edisi office&lt;/li&gt;
+&lt;li&gt;Cek status windiws/office&lt;/li&gt;
+&lt;li&gt;Tersedia dalam veriso all-in-one dan terpisah&lt;/li&gt;
+&lt;li&gt;Opensource berbasih script batch&lt;/li&gt;
+&lt;li&gt;Mini dekteksi antivirus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ringkasan Aktivasi&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ringkasan-aktivasi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ringkasan-aktivasi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tipe Aktivasi&lt;/th&gt;
+          &lt;th&gt;Produk Didukung&lt;/th&gt;
+          &lt;th&gt;Masa Aktivasi&lt;/th&gt;
+          &lt;th&gt;Butuh Internet?&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HWID&lt;/td&gt;
+          &lt;td&gt;Windows 10-11&lt;/td&gt;
+          &lt;td&gt;Permanen&lt;/td&gt;
+          &lt;td&gt;Ya&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ohook&lt;/td&gt;
+          &lt;td&gt;Office&lt;/td&gt;
+          &lt;td&gt;Permanen&lt;/td&gt;
+          &lt;td&gt;Tidak&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TSforge&lt;/td&gt;
+          &lt;td&gt;Windows/ESU/Office&lt;/td&gt;
+          &lt;td&gt;Permanen&lt;/td&gt;
+          &lt;td&gt;Tidak&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;KMS38&lt;/td&gt;
+          &lt;td&gt;Windows 10-11-Server&lt;/td&gt;
+          &lt;td&gt;Hingga 2038&lt;/td&gt;
+          &lt;td&gt;Tidak&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Online KMS&lt;/td&gt;
+          &lt;td&gt;Windows/Office&lt;/td&gt;
+          &lt;td&gt;180 hari (dapat diperpanjang)&lt;/td&gt;
+          &lt;td&gt;Ya&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Untuk detail lebih lanjut, lihat dokumentasi dan &lt;a href=&#34;#&#34; &gt;tabel perbandingan&lt;/a&gt;.&lt;br&gt;
+Untuk aktivasi produk tidak resmi seperti &lt;strong&gt;Office di Mac&lt;/strong&gt;, lihat &lt;a href=&#34;#&#34; &gt;di sini&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Screenshot&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;screenshot&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#screenshot&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+  
+      &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;#&#34;
+      &gt;&lt;img
+        alt=&#34;Powershell step 01&#34;
+        class=&#34;hextra-card-image&#34;
+        loading=&#34;lazy&#34;
+        decoding=&#34;async&#34;
+        src=&#34;http://localhost:1313/images/screenshoot/MAS_AIO.png&#34;
+        
+        
+        style=&#34;object-fit:cover; aspect-ratio:16/9;&#34;
+      /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Powershell step 01&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Pilih No.1 Untuk Aktivasi Windows&lt;/div&gt;&lt;/a&gt;
+    
+        &lt;a
+      class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;#&#34;
+        &gt;&lt;img
+          alt=&#34;Powershell step 02&#34;
+          class=&#34;hextra-card-image&#34;
+          loading=&#34;lazy&#34;
+          decoding=&#34;async&#34;
+          src=&#34;http://localhost:1313/images/screenshoot/MAS_HWID.png&#34;
+          
+          
+          style=&#34;object-fit:cover; aspect-ratio:16/9;&#34;
+        /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Powershell step 02&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Tunggu Proses Sampai Tulisan Berwarna Hijau SUKSES&lt;/div&gt;&lt;/a&gt;
+      
+          &lt;a
+        class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;#&#34;
+          &gt;&lt;img
+            alt=&#34;Powershell step 03&#34;
+            class=&#34;hextra-card-image&#34;
+            loading=&#34;lazy&#34;
+            decoding=&#34;async&#34;
+            src=&#34;http://localhost:1313/images/screenshoot/MAS_AIO.png&#34;
+            
+            
+            style=&#34;object-fit:cover; aspect-ratio:16/9;&#34;
+          /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Powershell step 03&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Pilih No.2 Untuk Aktivasi Microsoft Office&lt;/div&gt;&lt;/a&gt;
+      
+          &lt;a
+        class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;#&#34;
+          &gt;&lt;img
+            alt=&#34;Powershell step 04&#34;
+            class=&#34;hextra-card-image&#34;
+            loading=&#34;lazy&#34;
+            decoding=&#34;async&#34;
+            src=&#34;http://localhost:1313/images/screenshoot/MAS_Ohook.png&#34;
+            
+            
+            style=&#34;object-fit:cover; aspect-ratio:16/9;&#34;
+          /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;Powershell step 04&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;Tunggu Proses Sampai Tulisan Berwarna Hijau SUKSES&lt;/div&gt;&lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-orange-100 hx:bg-orange-50 hx:text-orange-800 hx:dark:border-orange-400/30 hx:dark:bg-orange-400/20 hx:dark:text-orange-300&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;div class=&#34;hx:select-none hx:text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;🌐&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;Sukses, selamat berkativitas kembali, salam sehat selalu.&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+      </description>
+    </item>
     
   </channel>
 </rss>

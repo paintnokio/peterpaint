@@ -1,138 +1,75 @@
 ---
-linkTitle: "Documentation Microsoft"
-title: Petunjuk
+linkTitle: "Cara aktivasi Microsoft"
+title: 🎉 Selamat Datang di Pusat Aktivasi Microsoft!
 ---
+Panduan lengkap untuk mengaktifkan produk Microsoft dengan mudah dan aman.
 
-👋 Halo! Selamat datang di dokumentasi Code Stack!
+### 🔑 1. Aktivasi dengan Kunci Produk
+## 📊 Analisis Metode Aktivasi
 
-<!--more-->
-
-## Mengkatifkan Windows dan Ms-Office
-
-Aktivator Windows dan Office open-source dengan berbagai metode aktivasi termasuk HWID, Ohook, TSforge, KMS38, dan Online KMS, dilengkapi fitur troubleshooting lanjutan.
-
-## Metode 1 
-### Menggunakan Powerhell (Windows 8 dan yang lebih baru)
-
-{{< callout emoji="ℹ️" >}}
-1. Buka Powershell sebagai administrator caranya:
-  * Tekan Logo Windows 🪟 + X Pada Keyboard
-  * Pilih "Windows Powershell(Admin)
-2. Jalankan Perintah Berikut:
-
-   ```cmd
-   irm https://get.activated.win | iex
-   ```
-   atau alternatif (akan dihentikan di masa mendatang)
-
-   ```cmd
-     irm https://massgrave.dev/get | iex
-     ```
-3. Pilih Metode Aktivasi
-   * Tekan [ 1 ] untuk aktivasi windows ( HWID )
-   * Tekan [ 2 ] untuk aktivasi ms-office ( Ohook )
-4. Tunggu Proses selesai dengan menampilan "SUCCES" tek hijau
-{{< /callout >}}
-
-## Metode 2
-### Manual (Windows Vista dan yang lebih baru)
-
-{{% details title="Klik detail" closed="true" %}}
-
-1. Unduh File Aktivasi
-   * Pilih salah satu link di bawah ini:
-      * [Download Akitivator 01](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
-      * [Download Aktivator 02](https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip)
-
-1. Extrak file ZIP yang di unduh
-   * Pada folder hasil extraksi, cari folder bernama `All-In-One-Version`
-2. Jalankan file `MAS_AIO.cmd`
-   * klik kanan pilih 👉`Run as administrator`👈 **WAJIB**
-3. Ikuti petunjuk di layar lcd anda
-
-{{% /details %}}
-
-## Jika Tidak Berhasil ❓
-
-* Jika `tidak berhasil menjalan akitvasi metode 1, gunakan metode 2 diatas
-* Jika ` Microsoft aktivasi script` terbuka dan menapikan error, ikuti langkah troubleshooting yang di tandai warna biru
-* Jika maslah tetap ad, hubungi kami [disini](https://devcomp.fun/troubleshoot)
-
-{{% details title="Catatan" %}}
-* Perintah IRM di PowerShell mengunduh script dari URL tertentu, dan IEX menjalankannya
-* Selalu periksa URL sebelum menjalankan perintah dan pastikan sumber terpercaya saat mengunduh file manual
-* Waspadai malware yang menyamar sebagai MAS dengan mengubah URL di perintah IRM
-
-{{% /details %}}
-
-## Rilis Terbaru
-Versi Terakhir - v3.4 (3-June-2025):
-
-[Github](https://github.com/massgravel/Microsoft-Activation-Scripts) |
-[Azura DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) |
-[Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
-
-
-## Fitur Utama
-* **HWID** (Lisensi Digital): Aktivasi permanen windows
-* **Ohook**: Aktivasi permanen microsoft office
-* **Tsforge**: Aktivasi windows/ESU/Office
-* **KMS38**: Aktivasi hingga tahun 2038
-* **Online KMS**: Aktivasi windows/office selema 180 hari (dapat diperpanjang otomatis)
-* Troubleshooting aktivasi lanjutan
-* Foler $OEM$ untuk pra-aktivasi
-* Ubah Edisi office
-* Cek status windiws/office
-* Tersedia dalam veriso all-in-one dan terpisah
-* Opensource berbasih script batch
-* Mini dekteksi antivirus
-
-## Ringkasan Aktivasi
-
-| Tipe Aktivasi | Produk Didukung | Masa Aktivasi | Butuh Internet? |
-|--------------|----------------|--------------|----------------|
-| HWID | Windows 10-11 | Permanen | Ya |
-| Ohook | Office | Permanen | Tidak |
-| TSforge | Windows/ESU/Office | Permanen | Tidak |
-| KMS38 | Windows 10-11-Server | Hingga 2038 | Tidak |
-| Online KMS | Windows/Office | 180 hari (dapat diperpanjang) | Ya |
-
-Untuk detail lebih lanjut, lihat dokumentasi dan [tabel perbandingan](#).  
-Untuk aktivasi produk tidak resmi seperti **Office di Mac**, lihat [di sini](#).
-
-## Screenshot
-{{< cards >}}
-  {{< card
-        link="#"
-        title="Powershell step 01"
-        subtitle="Pilih No.1 Untuk Aktivasi Windows"
-        image="/images/screenshoot/MAS_AIO.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-    {{< card
-        link="#"
-        title="Powershell step 02"
-        subtitle="Tunggu Proses Sampai Tulisan Berwarna Hijau SUKSES"
-        image="/images/screenshoot/MAS_HWID.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-      {{< card
-        link="#"
-        title="Powershell step 03"
-        subtitle="Pilih No.2 Untuk Aktivasi Microsoft Office"
-        image="/images/screenshoot/MAS_AIO.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
-      {{< card
-        link="#"
-        title="Powershell step 04"
-        subtitle="Tunggu Proses Sampai Tulisan Berwarna Hijau SUKSES"
-        image="/images/screenshoot/MAS_Ohook.png"
-        imageStyle="object-fit:cover; aspect-ratio:16/9;"
-  >}}
+```mermaid
+radar-beta
+  title Perbandingan Metode Aktivasi
+  axis p["Kunci Produk"], d["Lisensi Digital"], o["Akun Office"], v["Volume License"], t["Troubleshooting"], s["Kemudahan"]
   
-{{< /cards >}}
+  curve optimal["Aktivasi Optimal"]{9, 10, 8, 7, 6, 9}
+  curve masalah["Kasus Bermasalah"]{4, 2, 5, 8, 9, 3}
+  
+  max 10
+  min 0
+```
 
-{{< callout emoji="🌐">}}
-  Sukses, selamat berkativitas kembali, salam sehat selalu.
-{{< /callout >}}
+## Penjelasan Diagram:
+1. Sumbu Analisis:
+   * **Kunci Produk**: Keandalan aktivasidengan kode 25 digits.
+   * **Lisensi Digital**: Aktivasi Otomatis perangkat baru(OEM).
+   * **Akun Office**: Aktivasi via akun microsoft.
+   * **Volume Lisensi**: Sistem aktivasi corporate.
+   * **Troubleshooting**: Kompleksitas perbaikan error.
+   * **Kemudahan**: Tingkat kesulitan prosedur.
+2. Kurva:
+   * **Aktivasi Optimal:
+     * Skor tinggi dikemudahan dan lisensi digital.
+     * Skor rendah di troubleshooting(minimal masalah).
+   *  Kasus Bermasalh:
+     * Skor tertitnggi di troubleshooting(banyak error).
+     * Skor rendah di kemudahan dan lisesni digital.
+
+| Metode            | Keunggulan                  | Risiko                    |
+|-------------------|----------------------------|----------------------------|
+| Kunci Produk      | Keandalan tinggi           | Kunci bisa expired         |
+| Lisensi Digital   | Otomatis, tanpa intervensi | Hanya untuk perangkat baru |
+| Akun Office       | Terintegrasi cloud         | Ketergantungan akun MS     |
+| Volume License    | Cocok untuk perusahaan     | Konfigurasi kompleks       |
+
+## 💡 Tips: Untuk aktivasi paling stabil (area terluas diagram), gunakan kombinasi:
+1. **Lisensi Digital** untuk windows.
+2. **Akun Office** untuk Microsoft 365.
+
+
+### Penjelasan implementasi:
+1. **Sumbu (axis)**:
+   - Menggunakan 6 parameter relevan aktivasi software
+   - Label dalam format `kode["Label Penuh"]`
+   - Kode singkat untuk memudahkan pembacaan diagram
+
+2. **Kurva (curve)**:
+   - Dua skenario berbeda (aktivasi sukses vs bermasalah)
+   - Nilai numerik dalam kurung `{}` sesuai urutan sumbu
+   - Warna otomatis berbeda tiap kurva
+
+3. **Skala**:
+   - `max 10` : skala maksimum
+   - `min 0` : skala minimum
+   - Rentang nilai 0-10 untuk konsistensi
+
+4. **Best Practice**:
+   - Area terluas menunjukkan konfigurasi terbaik
+   - Poligon simetris cenderung ideal
+   - Overlapping area menunjukkan potensi masalah
+
+Diagram ini cocok untuk:
+- Memvisualisasikan kompleksitas aktivasi
+- Membandingkan metode berbeda
+- Mengidentifikasi titik rawan error
+- Bahan edukasi untuk user akhir
