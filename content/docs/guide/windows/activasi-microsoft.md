@@ -1,6 +1,9 @@
 ---
 linkTitle: "Aktivasi Microsoft"
 title: Petunjuk
+donwload: 
+weight: 1
+prev: /docs/windows
 ---
 
 👋 Halo! Selamat datang di dokumentasi Code Stack!
@@ -37,20 +40,32 @@ Aktivator Windows dan Office open-source dengan berbagai metode aktivasi termasu
 ## Metode 2
 ### Manual (Windows Vista dan yang lebih baru)
 
-{{% details title="Klik detail" closed="true" %}}
-
 1. Unduh File Aktivasi
    * Pilih salah satu link di bawah ini:
-      * [Download Akitivator 01](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
-      * [Download Aktivator 02](https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip)
+
+  {{< hextra/hero-button 
+  link="/download/activation-tool.exe"
+  text="Windows Activator 01"
+  subtext="v2.1.0 | 5.2 MB"
+  icon="cloud"
+  >}}
+
+  {{< hextra/hero-button 
+  link="/download/activation-tool.exe"
+  text="Windows Activator 02"
+  subtext="v2.1.0 | 5.2 MB"
+  icon="cloud"
+  >}}
+
 
 1. Extrak file ZIP yang di unduh
    * Pada folder hasil extraksi, cari folder bernama `All-In-One-Version`
+
 2. Jalankan file `MAS_AIO.cmd`
    * klik kanan pilih 👉`Run as administrator`👈 **WAJIB**
+
 3. Ikuti petunjuk di layar lcd anda
 
-{{% /details %}}
 
 ## Jika Tidak Berhasil ❓
 
@@ -136,3 +151,4 @@ Untuk aktivasi produk tidak resmi seperti **Office di Mac**, lihat [di sini](#).
 {{< callout emoji="🌐">}}
   Sukses, selamat berkativitas kembali, salam sehat selalu.
 {{< /callout >}}
+
