@@ -93,12 +93,16 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;a
-    href=&#34;http://localhost:1313/download/activation-tool.exe&#34;
+    href=&#34;https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip&#34;
     class=&#34;not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200&#34;
     
-    &gt;Windows Activator&lt;/a&gt;
-
-&lt;ol start=&#34;2&#34;&gt;
+    target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Windows Activator 01&lt;/a&gt;
+&lt;a
+    href=&#34;https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip&#34;
+    class=&#34;not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200&#34;
+    
+    target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Windows Activator 02&lt;/a&gt;
+&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Extrak file ZIP yang di unduh&lt;/p&gt;
 &lt;ul&gt;

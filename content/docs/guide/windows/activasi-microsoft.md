@@ -44,14 +44,14 @@ Aktivator Windows dan Office open-source dengan berbagai metode aktivasi termasu
    * Pilih salah satu link di bawah ini:
 
   {{< hextra/hero-button 
-  link="/download/activation-tool.exe"
+  link="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip"
   text="Windows Activator 01"
   subtext="v2.1.0 | 5.2 MB"
   icon="cloud"
   >}}
 
   {{< hextra/hero-button 
-  link="/download/activation-tool.exe"
+  link="https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip"
   text="Windows Activator 02"
   subtext="v2.1.0 | 5.2 MB"
   icon="cloud"

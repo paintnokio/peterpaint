@@ -1,59 +1,15 @@
-<!-- layouts/shortcodes/download-button.html -->
-{{- $link := .Get "link" | default "" -}}
-{{- $text := .Get "text" | default "Download" -}}
-{{- $subtext := .Get "subtext" | default "" -}}
-{{- $variant := .Get "variant" | default "primary" -}}
-{{- $icon := .Get "icon" | default "download" -}}
+{{- $link := .Get "link" -}}
+{{- $text := .Get "text" -}}
+{{- $style := .Get "style" -}}
+
 {{- $external := hasPrefix $link "http" -}}
+{{- $href := cond (hasPrefix $link "/") ($link | relURL) $link -}}
 
-{{/* Define icon SVG */}}
-{{- $iconSvg := "" -}}
-{{- if eq $icon "download" -}}
-  {{- $iconSvg = `<svg class="hx:w-5 hx:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>` -}}
-{{- else if eq $icon "warning" -}}
-  {{- $iconSvg = `<svg class="hx:w-5 hx:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>` -}}
-{{- else if eq $icon "video" -}}
-  {{- $iconSvg = `<svg class="hx:w-5 hx:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>` -}}
-{{- else if eq $icon "document" -}}
-  {{- $iconSvg = `<svg class="hx:w-5 hx:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>` -}}
-{{- else if eq $icon "cloud" -}}
-  {{- $iconSvg = `<svg class="hx:w-5 hx:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6.5 19q-1.871 0-3.185-1.306Q2 16.39 2 14.517q0-1.719 1.175-3.051t2.921-1.431q.325-2.083 1.83-3.458t3.574-1.56v8.325l-2.061-2.05L8.73 12L12 15.27L15.27 12l-.708-.708l-2.062 2.05V5.017q2.325.273 3.912 1.947T18 11v1h.616q1.436.046 2.41 1.055T22 15.5q0 1.471-1.014 2.486Q19.97 19 18.5 19z"/></svg>` -}}
-{{- end -}}
-
-{{/* Define base classes */}}
-{{- $baseClasses := "not-prose hx:inline-flex hx:items-center hx:gap-2 hx:px-6 hx:py-3 hx:rounded-lg hx:font-medium hx:transition-all hx:ease-in hx:duration-200 hx:cursor-pointer" -}}
-
-{{/* Variant specific classes */}}
-{{- $variantClasses := "" -}}
-{{- if eq $variant "primary" -}}
-  {{- $variantClasses = "hx:bg-gradient-to-r hx:from-blue-600 hx:to-indigo-700 hx:text-white hx:hover:from-blue-700 hx:hover:to-indigo-800 hx:focus:ring-4 hx:focus:ring-blue-300 hx:dark:focus:ring-blue-800 hx:shadow-md hx:hover:shadow-lg hx:hover:-translate-y-0.5" -}}
-{{- else if eq $variant "secondary" -}}
-  {{- $variantClasses = "hx:bg-gray-100 hx:text-gray-800 hx:hover:bg-gray-200 hx:dark:bg-gray-800 hx:dark:text-gray-200 hx:dark:hover:bg-gray-700 hx:border hx:border-gray-300 hx:dark:border-gray-700" -}}
-{{- else if eq $variant "disabled" -}}
-  {{- $variantClasses = "hx:bg-gray-100 hx:text-gray-400 hx:dark:bg-gray-800 hx:dark:text-gray-600 hx:cursor-not-allowed" -}}
-{{- end -}}
-
-{{/* Combine classes */}}
-{{- $allClasses := printf "%s %s" $baseClasses $variantClasses -}}
-
-<div class="hx:mb-4">
-  {{ if $link }}
-    <a href="{{ $link }}" 
-       class="{{ $allClasses }}"
-       {{ if $external }}target="_blank" rel="noopener noreferrer"{{ end }}>
-      {{ $iconSvg | safeHTML }}
-      <div>
-        <div class="hx:font-semibold">{{ $text }}</div>
-        {{ with $subtext }}<div class="hx:text-sm hx:opacity-80">{{ . }}</div>{{ end }}
-      </div>
-    </a>
-  {{ else }}
-    <div class="{{ $allClasses }}">
-      {{ $iconSvg | safeHTML }}
-      <div>
-        <div class="hx:font-semibold">{{ $text }}</div>
-        {{ with $subtext }}<div class="hx:text-sm hx:opacity-80">{{ . }}</div>{{ end }}
-      </div>
-    </div>
-  {{ end }}
-</div>
+<a
+  href="{{ $href }}"
+  class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200"
+  {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
+  {{ if $external }}target="_blank" rel="noreferrer"{{ end -}}
+>
+  {{- $text -}}
+</a>
