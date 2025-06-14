@@ -3,16 +3,14 @@ linkTitle: "Musik & Multimedia"
 title: "Software Musik & Multimedia"
 ---
 
-🎶 Kategori **Musik & Multimedia** berisi software untuk mengedit, membuat, dan memutar konten audio dan video dengan kualitas tinggi.
+🎶 Kategori **Musik & Multimedia** berisi software untuk mengedit, membuat, dan memutar konten audio dan video dengan kualitas tinggi, dibawah ini link software yang bisa anda donwload.
 
 <!--more-->
 
-### 📦 Daftar Software:
-
-{{< cards >}}
-  {{< card link="/software/musik-multimedia/audacity/" title="Audacity" image="/images/software/audacity.png" subtitle="Editor audio gratis dan open-source." >}}
-  {{< card link="/software/musik-multimedia/fl-studio/" title="FL-Studio" image="/images/software/flstudio21.png" subtitle="Digital Audio Workstation (DAW) profesional." >}}
-  {{< card link="/software/musik-multimedia/vlc/" title="VLC" image="/images/software/vlc.png" subtitle="Pemutar multimedia ringan dan fleksibel." >}}
+{{< cards cols="1" >}}
+  {{< card link="/software/musik-multimedia/audacity/" title="Audacity V.25" icon="document-duplicate">}}
+  {{< card link="/software/musik-multimedia/fl-studio/" title="FL-Studio V.21" icon="document-duplicate" >}}
+  {{< card link="/software/musik-multimedia/vlc/" title="VLC V.20 "icon="document-duplicate" >}}
 {{< /cards >}}
 
 ## Solusi Masalah

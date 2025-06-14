@@ -5,20 +5,17 @@ prev: /sofware/design-grafis/
 next: /sofware/design-grafis/canva
 ---
 
-🎨 Dalam kategori **Desain Grafis**, kamu akan menemukan berbagai software populer dan andal yang digunakan oleh para desainer profesional maupun pemula.
+🎨 Dalam kategori **Desain Grafis**, kamu akan menemukan berbagai software populer dan andal yang digunakan oleh para desainer profesional maupun pemula, dibawah ini link software yang bisa anda donwload.
 
 <!--more-->
 
 Setiap software dilengkapi dengan informasi versi terbaru, panduan instalasi, dan link download:
 
-### 📦 Daftar Software:
-
-{{< cards >}}
-  {{< card link="/software/design-grafis/canva/" title="SPSS" image="/images/software/canva.png" subtitle="Aplikasi desain online yang mudah digunakan untuk presentasi, poster, dan media sosial." >}}
-  {{< card link="/software/design-grafis/coreldraw/" title="tableau" image="/images/software/coreldraw.png" subtitle="Aplikasi desain vektor untuk membuat logo, brosur, dan grafis skala besar." >}}
-  {{< card link="/software/design-grafis/photoshop/" title="Exel" image="/images/software/photoshop.png" subtitle="Software editing foto dan desain raster terbaik di dunia." >}}
+{{< cards cols="1" >}}
+  {{< card link="/software/design-grafis/canva/" title="Canva V.25" icon="document-duplicate">}}
+  {{< card link="/software/design-grafis/coreldraw/" title="CorelDraw V.25" icon="document-duplicate">}}
+  {{< card link="/software/design-grafis/photoshop/" title="Photoshop V.25" icon="document-duplicate">}}
 {{< /cards >}}
-
 
 ## Solusi Masalah:
 

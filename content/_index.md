@@ -43,6 +43,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Full Text Search"
+    link="software"
     subtitle="Built-in full text search with FlexSearch, no extra setup required."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     image="images/hextra-search.webp"
@@ -53,15 +54,18 @@ layout: hextra-home
     title="Mobile SDK"
     subtitle="Development tools for Android and iOS apps"
     icon="device-mobile"
+    link="software"
   >}}
   {{< hextra/feature-card
     title="Desktop Suite"
     subtitle="Complete workstation package for Windows, macOS and Linux"
     icon="desktop-computer"
+    link="/software/sistem-operasi/"
   >}}
   {{< hextra/feature-card
     title="Server Bundle"
     subtitle="Enterprise-grade server packages"
     icon="server"
+    link="/software/jaringan-internet/"
   >}}
 {{< /hextra/feature-grid >}}

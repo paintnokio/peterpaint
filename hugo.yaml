@@ -52,6 +52,11 @@ menu:
       url: "https://github.com/paintnokio/peterpaint"
       params:
         icon: github
+    - name: Whatsapp
+      weight: 7
+      url: "https://github.com/paintnokio/peterpaint"
+      params:
+        icon: whatsapp    
 
 outputs:
   home: [HTML]

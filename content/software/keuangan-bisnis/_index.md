@@ -4,16 +4,14 @@ title: "Software Keuangan & Bisnis"
 description: "Perangkat lunak akuntansi, manajemen keuangan, dan sistem kasir untuk UMKM hingga perusahaan."
 ---
 
-💰 Kategori **Keuangan & Bisnis** mencakup software untuk akuntansi, pembukuan, manajemen inventaris, dan transaksi keuangan yang biasa digunakan oleh individu, UKM, dan korporasi.
+💰 Kategori **Keuangan & Bisnis** mencakup software untuk akuntansi, pembukuan, manajemen inventaris, dan transaksi keuangan yang biasa digunakan oleh individu, UKM, dan korporasi, dibawah ini link software yang bisa anda donwload.
 
 <!--more-->
 
-### 📦 Daftar Software:
-
-{{< cards >}}
-  {{< card link="/software/keuangan-bisnis/myob/" title="MYOB Accounting" image="/images/software/myob.png" subtitle="Perlindungan real-time dari ancaman online." >}}
-  {{< card link="/software/keuangan-bisnis/accurate/" title="Accurate" image="/images/software/accurate5.png" subtitle="Perlindungan real-time dari ancaman online." >}}
-  {{< card link="/software/keuangan-bisnis/ksir-pintar/" title="Kasir Pintar Pro" image="/images/software/kasirpintar.png" subtitle="Antivirus lokal ringan buatan Indonesia." >}}
+{{< cards cols="1" >}}
+  {{< card link="/software/keuangan-bisnis/myob/" title="Myob V.25" icon="document-duplicate">}}
+  {{< card link="/software/keuangan-bisnis/accurate/" title="Accurate V.21" icon="document-duplicate" >}}
+  {{< card link="/software/keuangan-bisnis/kasir-pintar/" title="kasir-pintar V.20 "icon="document-duplicate" >}}
 {{< /cards >}}
 
 ## Solusi Masalah

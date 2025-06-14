@@ -4,16 +4,16 @@ title: "Software Analisis Data"
 description: "Software untuk statistik, visualisasi data, dan analisis kuantitatif."
 ---
 
-📊 Kategori **Analisis Data** berisi alat bantu profesional dan akademik untuk mengolah, menganalisis, dan memvisualisasikan data dalam berbagai format.
+📊 Kategori **Analisis Data** berisi alat bantu profesional dan akademik untuk mengolah, menganalisis, dan memvisualisasikan data dalam berbagai format, dibawah ini link software yang bisa anda donwload.
 
 <!--more-->
 
-### 📦 Daftar Software:
+{{< cards cols="1" >}}
 
-{{< cards >}}
-  {{< card link="/software/analisis-data/spss/" title="SPSS" image="/images/software/spss.png" subtitle="Software statistik untuk penelitian dan data ilmiah." >}}
-  {{< card link="/software/analisis-data/tableau/" title="tableau" image="/images/software/tableau.png" subtitle="Visualisasi data interaktif berbasis dashboard." >}}
-  {{< card link="/software/analisis-data/excel-tools/" title="Exel" image="/images/software/exel-tool.png" subtitle="Analisis untuk Microsoft Excel." >}}
+  {{< card link="/software/analisis-data/spss/" title="SPSS V.25" icon="document-duplicate">}}
+  {{< card link="/software/analisis-data/tableau/" title="Tableu V.21" icon="document-duplicate" >}}
+  {{< card link="/software/analisis-data/excel-tools/" title="Exel-Tools V.20"icon="document-duplicate" >}}
+
 {{< /cards >}}
 
 ## Solusi Masalah:

@@ -4,16 +4,14 @@ title: "Software Keamanan & Antivirus"
 description: "Perangkat lunak untuk melindungi komputer dari virus, malware, dan ancaman keamanan lainnya."
 ---
 
-🔐 Kategori **Keamanan & Antivirus** menyediakan software proteksi sistem dari ancaman virus, spyware, dan malware berbahaya, cocok untuk kebutuhan pengguna pribadi maupun perusahaan.
+🔐 Kategori **Keamanan & Antivirus** menyediakan software proteksi sistem dari ancaman virus, spyware, dan malware berbahaya, cocok untuk kebutuhan pengguna pribadi maupun perusahaan, dibawah ini link software yang bisa anda donwload.
 
 <!--more-->
 
-### 📦 Daftar Software:
-
-{{< cards >}}
-  {{< card link="/software/keamanan/kaspersky/" title="Kaskpersky" image="/images/software/kaspersky.png" subtitle="Perlindungan real-time dari ancaman online." >}}
-  {{< card link="/software/keamanan/malwarebytes/" title="Malwarebytes" image="/images/software/malwarebytes5.png" subtitle="Perlindungan real-time dari ancaman online." >}}
-  {{< card link="/software/keamanan/smadav/" title="Smadav" image="/images/software/smadav.png" subtitle="Antivirus lokal ringan buatan Indonesia." >}}
+{{< cards cols="1" >}}
+  {{< card link="/software/keamanan/kaspersky/" title="kaspersky V.25" icon="document-duplicate">}}
+  {{< card link="/software/keamanan/malwarebytes/" title="malwarebytes V.21" icon="document-duplicate" >}}
+  {{< card link="/software/keamanan/smadav/" title="Esmadav V.20 "icon="document-duplicate" >}}
 {{< /cards >}}
 
 ## Solusi Masalah

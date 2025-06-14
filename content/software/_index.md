@@ -12,7 +12,7 @@ description: "Jelajahi berbagai kategori software yang tersedia untuk kebutuhan 
 
 Beberapa kategori utama yang tersedia antara lain:
 
-{{< cards >}}
+{{< cards cols="1" >}}
   {{< card link="analisis-data" title="Analisis Data" subtitle="📊 seperti SPSS, Tableau, dan Excel Advanced Tools." >}}
   {{< card link="design-grafis" title="Desain Grafis" subtitle="🎨 seperti Adobe Photoshop, CorelDRAW, dan Canva." >}}
   {{< card link="jaringan-internet" title="Jaringan & Internet" subtitle="🌐 seperti Wireshark, Putty, dan FileZilla." >}}
